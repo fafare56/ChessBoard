@@ -1,0 +1,21 @@
+# Fichiers binaires temporaires
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Fichiers de build
+.vscode/
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Plugins compilés
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
