@@ -11,7 +11,161 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d3bfdfe-f0bd-43d6-a584-6a7db88759e1" name="Changes" comment="" />
+    <list default="true" id="3d3bfdfe-f0bd-43d6-a584-6a7db88759e1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/Boards.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChessProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChessProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChessProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChessProject.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ChessProject.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Board.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Board.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Board_HLOD0_Instancing.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/0/1V/6EY0QINSBXKEPYOO2YKR7A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/0/43/ODVKDFLTUOXF62OP14T6LH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/0/45/4OFK1PMVYPZQ4XP2IRC3NT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/0/MV/AYVCCXNKNVB9SRDS55YGDD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/0/SP/6K3L1FKY2SDDTQ6K7WKX6U.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/0/UI/I33AFITFGGX0NB1FKMIUKR.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/0A/YU7JF7VYOF9U16UYJUAUA7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/7I/CKKPTVXK9LULM1GD41YKOG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/9O/IO5NUPLKUAC47OQWD9IGVY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/DP/KL060U6ABJV983DJITT2EH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/GP/RS37XMT9A3YODKL18UVIV9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/MV/4QY4QMF1UOPM2M1GCC3ESY.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/NB/7DT60TJZRAWADF3QNPV862.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/NJ/2IAJ8RMKJ78F3IHCTD5K17.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/O2/F8KRLY2VGWWVOFZ4NICHDX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/1/P4/V2NEO7LPDYC06K10QRBB1S.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/3L/LBDZ8OK41VVENUC1MJU3X4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/57/CSSW0FD5Q9FWAKZHODVM4Q.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/A7/EV8FHSLQGQD1Y5K0B7MNF4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/EY/KNREC0PAOG7ZEWO44XJ4I0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/HH/MKRT39P3WUFIRWU640YF0R.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/HH/UD93U2JBX8DDJAEXLG42TA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/HI/M58SEZ7NHPHU9CFMDKC8HW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/NZ/WLB6EQETM79I2ZB8VKMFET.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/RA/7FIYT3SP0I2N086YX1RSYF.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/RG/XYBGWUOW5ML30H1Z4TASBV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/VD/BDKNH74ZV5AUVBAQ5JWFE1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/2/VY/DP8UJ1YFB7JLN5EL3IGPHX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/3/4Z/XYN7R4DHS8B69ERC2SCUS9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/3/6Q/YKZ4CT724E0IXUBDWALJQG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/3/6T/FHDFNE4SAOKQQUSNARCZM0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/3/6U/QYFH4HTOEPITSB3IHC6ZMI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/3/6V/W0YXO0LSI4BM0DD26G6HZI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/3/7U/WSZAN2JMBO3H6J582XZ74L.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/3/N0/VXSEXPKLT04QT1JT86KMI9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/3/V6/FZGSVMBX6SJSV3MY047WRV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/3/WE/5JPNTJMV1RGM26D81CJ712.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/3H/TLHMX03VFP0DQWX5K7ZT56.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/8S/20A8HE3G1O3KFP1K6A2EDS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/9F/1QUZC1HPY1G7Q6PGV7Q2SA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/9R/GTDO5YSV99ELO1BIV4X8OM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/DV/UMTEEEPYN88SJS2TF6O4MJ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/HV/OO990F5S7J45H5R43R85E9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/IK/P9RLJRGTHCRQ2LFAWWBEBF.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/IY/JJVIF919JBQTJWTVFCBO3J.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/P3/OMQQH53J650C4RX22Y9LN4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/4/TG/H7QC1PQS4HO8QGEMIA0AKR.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/5/1Y/HBYEZ5H137V38RI7EG1UWR.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/5/26/GM8HA1XDJN30F333SROXJ8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/5/4P/L7EBCXF7YKJGOK29TZ529N.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/5/LW/HZHTX0U1YJDDS9YQ7YLTN7.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/5/P4/BDYGL7GOS6YTHEJG22B6BD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/5/PE/DY7LYIHS4Q85NAR9CJN0OM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/5/VV/8T6N3YIHDG6CB9YHCPFCNG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/6/AS/4AM7WX27NNOC0JWZ2YDOQ3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/6/EJ/XILS4WKYFAM8DDC5QSGSQ6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/6/L5/XX0VTUIXQTX893RN1EELN8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/6/Y3/79OLWADRFJX2Y61KPD0IJG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/0M/468L1DZO05Z3DVH2FD442G.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/24/IC21SI2EU1A0ER5JDR26MC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/5Q/1EN0J86T37V81W7BR12W3H.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/BW/M8VXPB50N12MEWAEVXCPOW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/G1/L0KN9E8HZ5WODZRDOMI9LL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/GW/COMIZHKT5QZHBHZCDDL3S3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/L0/DGGG552AQPUAR1TU3LOTPI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/OM/0JVPBESS49FL6NBAB6YMG2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/PR/VQ7W3NBL29OPGA8IYS6HGO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/SB/90QV8GD2QQ7SFZQ40GFD63.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/7/WB/Y4EUY5LZ7O2TPSIJDVYFAC.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/30/KCB4DE12F8A4LA3IFXQCX8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/6G/BWOI8SMMEFYQYQX7434SF4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/D5/VL6RXI1HAE09X14EXPDV5I.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/H4/N3JXLD1B4I93IOKG0HV94G.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/ID/OTH6R7VRUCJ3PA9TS8BHLZ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/IU/3T44X6AO88ZD1GRT7A0ON8.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/J4/TTQDG53QUKC9O9TGY5YOZO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/L2/OXVY5OEOCV8GJYMRPUKFOL.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/NZ/LJDB669G6NCAV0HPCWLYCX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/TT/8KF85G4BPSGJUAG5ZMAGIV.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/TY/0FKKWRN8KCFU73Y9ME32GN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/VR/ZVCO3Z1GAOXPAT1FN8B8PO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/WS/SI7CQE9EHMQV041MZKEOXN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/YA/QNOQ3EFYJJNVVW0THNU855.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/8/ZO/A2A2O8G4BBGXFJL1R9MEX5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/9/2O/KLUXWZAUTVQBH0PP8ZRG1R.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/9/4R/DRR23Z66JHY2O6W00M9P4G.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/9/6Z/0USWSBFVFLRO8M8PAX9VVK.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/9/9E/TZS4G8QQD7VPNN8AUOLK2T.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/9/AS/1EUQD7U2IRZAY25PND6WSD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/9/J2/BB468G14UYJL42ADPSPRFM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/9/LD/1N0BCTC2K9DBXSOAKNV9B1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/9/RE/G0PQRR72DK8U8UKZIVWUPI.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/9/ZG/53IOZYXQB50FCIME6D0NXF.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/A/8J/0J5WK4S2BYPLPZ8NWVVWP5.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/A/B5/AW72QSVWA6VTHS6CK73Y1I.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/A/EN/LT4H6DLMSM4JNK2PGCSG5M.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/A/I8/D4VI13BW7TT6PXB1L0LMVS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/A/KI/CHR63TBC5K5F465HBRIGVW.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/A/S7/8JF7I1WBVQEG8E0AKV6VJX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/A/X7/THPO4OPI0P56RLZG0XFGDM.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/A/ZL/5YHXOAARUCVP2GIG4BW0T9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/B/47/MTL9FUWM4V44887KVGMSPX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/B/C3/1BVKTI4EUO9OO3B4B7TFQH.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/B/CK/78LUQXZHHOG7304SLIMS52.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/B/JU/BM64OZJUSPCOJJZ51KBSN1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/B/LT/VD9VJUE4BQEI6QCFMBFHQQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/B/N3/8EC50YW5GWH9HO7OYQCC30.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/B/PB/DVYB2Z6SJ9OX7BDAMD8NA4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/B/T4/IXPQ35BI6RJYSXO3263P6O.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/C/1I/U9KKLX0DLA39TWFGZNR4Z4.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/C/7W/ILAJV7APQV3C54NADNTA9W.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/C/A5/FI4FV5RO8V4WCFN57KD8F6.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/C/D3/AD5NYVWFYWYC1M0RMSYKTP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/C/U1/SKEZY37K36P3232F40EJLG.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/C/U2/O1JFHUR659PZ23C1XCN6L0.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/17/2IXST1Y7QMLK4AXRO3KWOA.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/1U/OBQJCUPGUQH6YF0VZMSZ24.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/8F/J42Z7MAZK2XLKV17JALQFE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/B1/957OKOIVN2QYWX17E75808.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/K8/I7A6BZD5J7ZR8KGWTPW9J9.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/LQ/4C0ETACCT57WGPLT57D9ZN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/PS/G5WWON2TV8ARMCAGXTA16A.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/S3/Q72SUQY0POV4VSXCAN13GB.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/VE/IQ674FTNZV5DPQKQ29PG3W.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/WE/LU8YS10Q4PIV5NSVENWXEP.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/XM/L8B8CTZHAEFB2FOY01PGBD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/D/XT/LNQ1M1KULNUAVTEZC5BE39.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/E/5U/FWJ8Z9G4SYN8EHPT8UMRZU.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/E/7B/MIFK61HLX0YYF9MU0S8BNT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/E/8X/LZXRBKJV2YPQMMJXAMAUJO.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/E/95/1BIXJXF5QIUNKRWSRG65BX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/E/9S/F9YXMFQ8K26QZF3LLA6CXD.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/E/9V/MV03EDUG1NHS0H2O1NOGL3.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/E/MJ/A1K2NOBFLZ63M18PHMN1HN.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/E/OO/XCUJPM8IH5VR9G2W3RZ3XX.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/F/15/547RPANQIXWAHPERIVU7TQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/F/1X/G4E2U8OEZIZV27IDNAY6FF.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/Board/F/33/7JI5L6TPEMQ10VT2B3DJM1.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Board/0/80/I7SOSN1J954A6RNUYMF18F.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Board/2/QC/2CEUTE6DMIQC4405SSO80V.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Board/5/8U/QQGT6NMS0XRNZNMWICTLAT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Board/8/YX/S9V3DVDG54VZX3ZE4RRAWE.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Board/9/P4/MWS9Z29LN9D5IJNHKBMYPQ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalObjects__/Board/D/IM/290LE3Q6P4FX0A7AE73WDT.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ChessProject/Private/ChessPawn.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ChessProject/Private/ChessPawn.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ChessProject/Public/ChessPawn.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ChessProject/Public/ChessPawn.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,35 +175,39 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://1" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ChessProject/Private/CheddSquare.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ChessProject/Private/PawnPion.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ChessProject/Public/CheddSquare.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ChessProject/Public/PawnPion.h" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="33JEWWeJKZRMljjxutA76GkFBVN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ Project.ChessProject.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ Project.ChessProject.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ Project.ChessProject">
     <configuration name="ChessProject" type="CppProject" factoryName="C++ Project">
       <configuration_1 setup="1">
@@ -137,7 +295,10 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -149,6 +310,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759026809301</updated>
       <workItem from="1759026811115" duration="1091000" />
+      <workItem from="1759030519923" duration="1236000" />
     </task>
     <servers />
   </component>

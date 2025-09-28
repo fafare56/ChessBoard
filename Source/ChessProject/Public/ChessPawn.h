@@ -6,20 +6,28 @@
 #include "GameFramework/Actor.h"
 #include "ChessPawn.generated.h"
 
+UENUM(BlueprintType)
+enum class ECouleurPawn : uint8
+{
+	Noir    UMETA(DisplayName = "Noir"),
+	Blanc UMETA(DisplayName = "Blanc")
+};
+
 UCLASS()
 class CHESSPROJECT_API AChessPawn : public AActor
 {
 	GENERATED_BODY()
 
 public:
-	// Sets default values for this actor's properties
 	AChessPawn();
+	int32 posX, posY;
+
+	ECouleurPawn Couleur;
+	
 
 protected:
-	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 public:
-	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 };
